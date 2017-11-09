@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.date        = '2017-11-09'
   s.summary     = "LineBuffer"
   s.description = "A ruby implementation of yielding lines when streaming data to a buffer"
-  s.authors     = ["Erik Fonselius"]
+  s.authors     = ["Erik Fonselius", "Joel Segerlind", "Gustav Munkby"]
   s.email       = 'fonsan@gmail.com'
   s.files       = ["lib/line_buffer.rb"]
   s.homepage    =
